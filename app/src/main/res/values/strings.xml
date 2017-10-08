@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your Grade</string>
+    <string name="Tital">What\'s Your Grade</string>
+    <string name="Tital2">Enter your name and score</string>
+    <string name="name">Name</string>
+    <string name="score">Score</string>
+    <string name="find">find grade</string>
+    <string name="exit">exit</string>
+</resources>
